@@ -64,6 +64,18 @@ El objetivo principal es **identificar los factores más influyentes en la cance
 * Jupyter Notebook / Google Colab
 
 ---
+---
+## ▶️ Cómo ejecutar el proyecto
+* Google Colab (recomendado)
+
+    * Abrir el archivo TelecomX_LATAM.ipynb en Google Colab.
+
+    * Ejecutar las celdas en orden, de arriba hacia abajo.
+
+    * Revisar gráficos, análisis e informe final dentro del notebook.
+
+---
+---
 
 ## 🧪 Flujo de trabajo
 
